@@ -3,8 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<scm>
-		<developerConnection>scm:git:[https://github.com/NatashaMota/pet-clinic.git]</developerConnection>
-		<tag>pet-clinic-0.0.1</tag>
+		<developerConnection>scm:git:https://github.com/NatashaMota/pet-clinic.git</developerConnection>
 	</scm>
 	<packaging>pom</packaging>
 	<dependencies>
