@@ -5,7 +5,6 @@
 	<scm>
 		<developerConnection>scm:git:https://github.com/NatashaMota/pet-clinic.git</developerConnection>
 
-    <tag>pet-clinic-0.0.1</tag>
   </scm>
 	<packaging>pom</packaging>
 	<dependencies>
@@ -29,7 +28,7 @@
 	</parent>
 	<groupId>guru.springframework</groupId>
 	<artifactId>pet-clinic</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.1-SNAPSHOT</version>
 	<name>pet-clinic</name>
 	<description>SFG Pet Clinic project</description>
 	<properties>
