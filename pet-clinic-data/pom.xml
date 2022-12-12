@@ -9,7 +9,7 @@
     </parent>
     <groupId>guru.framework</groupId>
     <artifactId>pet-clinic-data</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <name>pet-clinic-data</name>
     <description>pet-clinic-data</description>
     <properties>
