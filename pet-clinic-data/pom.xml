@@ -9,7 +9,7 @@
     </parent>
     <groupId>guru.framework</groupId>
     <artifactId>pet-clinic-data</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.1-SNAPSHOT</version>
     <name>pet-clinic-data</name>
     <description>pet-clinic-data</description>
     <properties>
@@ -21,11 +21,6 @@
             <artifactId>spring-boot-starter</artifactId>
         </dependency>
 
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-test</artifactId>
-            <scope>test</scope>
-        </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-data-jpa</artifactId>
@@ -70,4 +65,5 @@
             </plugin>
         </plugins>
     </build>
+
 </project>
